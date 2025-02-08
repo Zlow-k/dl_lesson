@@ -5,3 +5,5 @@ zerotuku/dataset/*.pkl
 pytorch_lesson/notebook
 pytorch_lesson/data
 __pycache__
+data
+dataset
